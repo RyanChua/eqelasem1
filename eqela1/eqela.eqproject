@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Eqela1
+#
+
+projectname: Eqela1
+vendorid: com.Chua
+mainmodule: com.Chua.eqela1
